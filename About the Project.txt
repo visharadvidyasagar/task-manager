@@ -1,0 +1,13 @@
+This project is named as "Task Manager" done by 'Visharad Vidyasagar' on 07/04/2022
+
+DETAILS OF PROJECT
+1. New users can be made and removed
+2. Task can be Added or Deleted for each single user
+3. Status like pending and completed is done by clicking on the task
+4. Delete list will delete the all task for user including the user as well
+5. Clear completed task will delete all the tasks completed, and the same can be used if you wish to delete a task by making it complete and delete
+7. No. of task added are shown, and once completed it shows the number of tasks remaining as per the completion.
+
+THINGS NOT DONE:
+1. Filter to name, due date and task done and not done
+2. Due date for tasks
